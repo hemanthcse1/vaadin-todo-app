@@ -1,0 +1,6 @@
+.toolbar {
+    width: 100%;
+    padding: var(--lumo-space-m);
+    align-items: center;
+    background-color: #ADD8E6; /* Light blue background */
+}
